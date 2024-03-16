@@ -1,4 +1,4 @@
-# Elysia Env
+# Elysia MariaDB
 
 ## Installing
 ```bash
