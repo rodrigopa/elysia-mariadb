@@ -1,0 +1,13 @@
+{
+  "name": "elysia-mariadb",
+  "main": "src/index.ts",
+  "version": "1.0.0",
+  "dependencies": {
+    "elysia": "latest",
+    "mariadb": "^3.2.3",
+    "poetic": "^1.7.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
